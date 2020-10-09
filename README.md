@@ -4,4 +4,4 @@ Docker swarm example app
 
 ## HOW TO USE
 
-Initialize the docker swarm and execute the script `./deploy.sh`
+Initialize the docker swarm and execute the script `./deploy.sh` on the master node
